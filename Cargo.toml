@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    # "sflowrt-rs",
+    "sflowrt-rs-cli",
+    "sflowrt-rs-flow",
+]
+resolver = "2"

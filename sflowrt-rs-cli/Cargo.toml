@@ -1,0 +1,14 @@
+[package]
+name = "sflowrt-rs-cli"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.93"
+clap = "*"
+reedline-repl-rs = "1.2.1"
+
+# sflowrt-rs = { path = "../sflowrt-rs" }
+sflowrt-rs-flow = { path = "../sflowrt-rs-flow" }

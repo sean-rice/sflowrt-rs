@@ -1,0 +1,5 @@
+# via https://github.com/Nicolas-Ferre/rust-example/blob/802ac08bf16f0c59399ca7a2fef8ba5dd0a08d63/rustfmt.toml
+# edition = "2018"
+newline_style = "Unix"
+use_field_init_shorthand = true
+use_try_shorthand = true
